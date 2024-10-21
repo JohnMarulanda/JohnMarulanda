@@ -14,7 +14,7 @@
 
 <div align="left">
 
-<img align="right" height="150" src="https://i.imgur.com/HgCjMI5.gif" />
+<img align="right" height="130" src="https://i.imgur.com/HgCjMI5.gif" />
 
 - 🎓 **Current studies**: Software Engineering at Universidad del Valle (9th Semester).
 - 🌍 **From**: Colombia 🇨🇴
