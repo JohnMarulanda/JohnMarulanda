@@ -22,7 +22,7 @@
 - 📫 How to reach me: **johnmarulanda74@gmail.com**
 - 🎓 **Current studies**: Software Engineering at Universidad del Valle (9th Semester).
 - 🌍 **From**: Colombia 🇨🇴
-- 🌐 **Languages**: Spanish (Native), English (Advanced), Portuguese and Russian (Learning)
+- 🌐 **Languages**: Spanish (Native), English (Advanced), Portuguese and Russian (Learning).
 - 💡 **Interests**: Frontend/Backend development, Software development, Artificial Intelligence, Machine Learning, Gaming, and Tech Innovations.
 
 </div>
