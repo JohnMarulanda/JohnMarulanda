@@ -14,7 +14,12 @@
 
 <div align="left">
 
-<img align="right" height="130" src="https://i.imgur.com/HgCjMI5.gif" />
+<img align="right" height="200" src="https://i.imgur.com/HgCjMI5.gif" />
+
+- 🔭 I’m currently working on **web and ML projects.**
+- 🌱 I’m currently learning **ML, DevOps, Cloud, and more!**
+- 👯 I’m looking to collaborate on **anything that you want!**
+- 📫 How to reach me: **johnmarulanda74@gmail.com**
 
 - 🎓 **Current studies**: Software Engineering at Universidad del Valle (9th Semester).
 - 🌍 **From**: Colombia 🇨🇴
