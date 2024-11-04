@@ -98,6 +98,10 @@
       <img src="https://skillicons.dev/icons?i=javascript" width="48" alt="JavaScript" />
       <br>JavaScript
     </td>
+        <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=typescript" width="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=react" width="48" alt="React" />
       <br>React
