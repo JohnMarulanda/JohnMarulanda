@@ -2,11 +2,11 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=40&pause=2000&color=7947C0&center=true&vCenter=true&width=435&lines=Hi!+I'm+John+%F0%9F%90%B3!" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=30&pause=1000&color=7947C0&center=true&vCenter=true&width=435&lines=A+Software+Developer+%F0%9F%91%BE!" alt="Typing SVG" /></a>
-
 <div>
 
-<!-- ![Header](https://image)  -->
+---
+
+![Header](Wallpaper2.png)
 
 ---
 
