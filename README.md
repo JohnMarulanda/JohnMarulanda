@@ -140,10 +140,6 @@
       <br>Node.js
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cpp" width="48" alt="C++" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=go" width="48" alt="Go" />
       <br>Go
     </td>
