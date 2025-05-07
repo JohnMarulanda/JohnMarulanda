@@ -20,10 +20,10 @@
 - 🌱 I’m currently learning **ML, DevOps, Cloud, and more!**
 - 👯 I’m looking to collaborate on **anything that you want!**
 - 📫 How to reach me: **johnmarulanda74@gmail.com**
-- 🎓 **Current studies**: Software Engineering at Universidad del Valle (9th Semester).
+- 🎓 **Current studies**: Software Engineering at Universidad del Valle (10th Semester - Last year).
 - 🌍 **From**: Colombia 🇨🇴
 - 🌐 **Languages**: Spanish (Native), English (Advanced), Portuguese and Russian (Learning).
-- 💡 **Interests**: Frontend/Backend development, Software development, Artificial Intelligence, Machine Learning, Gaming, and Tech Innovations.
+- 💡 **Interests**: Frontend/Backend development, Software development, Artificial Intelligence, Machine Learning, Gaming, Design, and Tech Innovations.
 
 </div>
 
