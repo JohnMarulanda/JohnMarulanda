@@ -16,16 +16,25 @@
 
 <img align="right" height="200" src="https://i.imgur.com/HgCjMI5.gif" />
 
-- 🔭 I’m currently working on **Web and ML projects.**
-- 🌱 I’m currently learning **ML, DevOps, Cloud, and more!**
-- 👯 I’m looking to collaborate on **anything that you want!**
-- 📫 How to reach me: **johnmarulanda74@gmail.com**
-- 🎓 **Current studies**: Software Engineering at Universidad del Valle (10th Semester - Last year).
-- 🌍 **From**: Colombia 🇨🇴
-- 🌐 **Languages**: Spanish (Native), English (Advanced), Portuguese and Russian (Learning).
-- 💡 **Interests**: Frontend/Backend development, Software development, Artificial Intelligence, Machine Learning, Gaming, Design, and Tech Innovations.
+- 🔭 Currently working on **Web Development** and **Machine Learning** projects.  
+- 🌱 Continuously learning about **ML, DevOps, Cloud Computing**, and more.  
+- 👯 Open to collaborating on **exciting and meaningful projects** — just reach out!  
+- 📫 You can contact me at: **johnmarulanda74@gmail.com**  
+- 🎓 **Software Engineering student** at Universidad del Valle (10th Semester – Final Year).  
+- 🌍 Based in **Colombia 🇨🇴**  
+- 🌐 **Languages**:  
+  - Spanish (Native)  
+  - English (Advanced)  
+  - Portuguese & Russian (Currently learning)  
+- 💡 **Passions & Interests**:  
+  - Full Stack Development  
+  - Software Engineering  
+  - Artificial Intelligence & Machine Learning  
+  - Gaming, UX/UI Design, and Emerging Tech  
+- 🌐 **Portfolio**: [https://madebyjohn.vercel.app](https://madebyjohn.vercel.app)
 
 </div>
+
 
 ---
 
