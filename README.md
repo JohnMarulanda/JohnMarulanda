@@ -25,7 +25,7 @@
 - 🌐 **Languages**:  
   - Spanish (Native)  
   - English (Advanced)  
-  - Portuguese & Russian (Currently learning)  
+  - Portuguese, Italian & Russian (Currently learning)  
 - 💡 **Passions & Interests**:  
   - Full Stack Development  
   - Software Engineering  
