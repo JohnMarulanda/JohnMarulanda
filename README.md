@@ -20,7 +20,7 @@
 - 🌱 Continuously learning about **ML, DevOps, Cloud Computing**, and more.  
 - 👯 Open to collaborating on **exciting and meaningful projects** — just reach out!  
 - 📫 You can contact me at: **johnmarulanda74@gmail.com**  
-- 🎓 **Software Engineering student** at Universidad del Valle (10th Semester – Final Year).  
+- 🎓 **Software Engineering** at Universidad del Valle.  
 - 🌍 Based in **Colombia 🇨🇴**  
 - 🌐 **Languages**:  
   - Spanish (Native)  
